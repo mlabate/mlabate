@@ -16,18 +16,18 @@ I'm interested in technology, photography and "on the road" traveling.
 ## 💻 My Main Tech Stack
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| <!--💻 **Technology**--> |
-|-| 
+|||||
+|-|
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-| [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61dafb&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-| [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1e90ff&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ [![React.js](https://img.shields.io/static/v1?label=&message=React.js&color=61dafb&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
+ [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+ [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1e90ff&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 | [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=8892bf&logo=php&logoColor=FFFFFF)](https://www.php.net/)
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-| [![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org/en/)
+ [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
+ [![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org/en/) 
 | [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00758f&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
-| [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=116149&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
-| [![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=e00097&logo=graphql&logoColor=FFFFFF)](https://graphql.org/)
+ [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=116149&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
+ [![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=e00097&logo=graphql&logoColor=FFFFFF)](https://graphql.org/)
 | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=000000&logo=linux&logoColor=FFFFFF)](https://www.linux.org/)
-| [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2c99eb&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
+ [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2c99eb&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
