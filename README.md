@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Mario Labate](https://github.com/mlabate) [@mlabate](https://github.com/mlabate)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mario%20Labate-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mlabate/)](https://www.linkedin.com/in/mlabate/) 
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) 
+[![GitHub followers](https://img.shields.io/github/followers/mlabate?label=Follow&style=social)](https://github.com/mlabate/?tab=follow) 
 
 :wave: Hello! I started as a simple enthusiast, I went ahead to an engineer, a full-stack software developer, a devops, a project leader, a technical manager. Moreover I am 39% of a sysadmin, 13% of a creative, 20% of a designer, 7% of a tester and 41% of a PM.
 I have excellent adaptability skills, I deal with everything with enthusiasm but I need to continuously feed my curiosity and my desire to discover new solutions. This is why I have been and I am so many things.
