@@ -4,7 +4,7 @@
 [![Blogger Badge](https://img.shields.io/badge/-TheWrongThinkingDude-f57c00?style=social&logo=Blogger&logoColor=f57c00&link=https://thewrongthinkingdude.blogspot.com/)](https://thewrongthinkingdude.blogspot.com/) 
 [![GitHub followers](https://img.shields.io/github/followers/mlabate?label=Follow&style=social)](https://github.com/mlabate/?tab=follow) 
 
-:wave: Hello! I started as a simple enthusiast, I went ahead to an engineer, a full-stack software developer, a devops, a project leader, a technical manager. Moreover I am 39% of a sysadmin, 13% of a creative, 20% of a designer, 7% of a tester and 41% of a PM.
+:wave: Hello! I started as a simple enthusiast, I went ahead to an engineer, a full-stack software developer, a devops engineer, a project leader, a technical manager. Moreover I am 39% of a sysadmin, 13% of a creative, 20% of a designer, 7% of a tester and 41% of a PM.
 I have excellent adaptability skills, I deal with everything with enthusiasm but I need to continuously feed my curiosity and my desire to discover new solutions. This is why I have been and I am so many things.
 
 💻 By years I learned how to work with a dozen of programming languages, half a dozen of operating systems and an infinite number of approaches and technologies. I had to continuously vary and adapt my way of approaching and organizing job and time, learning how to manage code, infrastructures, projects, teams, departements and areas.
