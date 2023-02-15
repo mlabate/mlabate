@@ -1,7 +1,6 @@
 # 👨🏻‍💻 [Mario Labate](https://github.com/mlabate) [@mlabate](https://github.com/mlabate)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mario%20Labate-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mlabate/)](https://www.linkedin.com/in/mlabate/) 
-[![Blogger Badge](https://img.shields.io/badge/-TheWrongThinkingDude-f57c00?style=social&logo=Blogger&logoColor=f57c00&link=https://thewrongthinkingdude.blogspot.com/)](https://thewrongthinkingdude.blogspot.com/) 
 [![GitHub followers](https://img.shields.io/github/followers/mlabate?label=Follow&style=social)](https://github.com/mlabate/?tab=follow) 
 
 :wave: Hello! I started as a simple enthusiast, I went ahead to an engineer, a full-stack software developer, a devops engineer, a project leader, a technical manager. Moreover I am 39% of a sysadmin, 13% of a creative, 20% of a designer, 7% of a tester and 41% of a PM.
